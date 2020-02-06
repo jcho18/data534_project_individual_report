@@ -5,10 +5,25 @@
 -	Played around with the Lufthansa API and realized that we couldn’t access to links with different information. 
 
 27 January 2020 
+- Discussed about responsibilities for each group members
+- Talked to Dr. Apurva about limitation of Lufthansa API
+- Shahrukh is doing a function that retrieve API from Lufthansa
+- Elizaveta is doing a function that retrieve lounge information by using Shahrukh's function
+- I am doing a function that gives a airport location world map
 
 29 January 2020 
+- Started working on my airport_location() function
+- Decided use Shahrukh's function for getting the information
 
 30 January 2020 
+- Finished up my airport_location() function. 
+- The function inputs airport code and outputs a world map with airport location (blue dot)
 
 1 February 2020 
+- Meeting with group members 
+- Discussed about the progress 
+- Elizaveta updated her function -> it outputs data frame as a csv file
+- Started working on unittest on R. 
+
+
 
